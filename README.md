@@ -6,7 +6,7 @@ This is the Discover and Practise solution portfolio for Charlie's progress thro
 The modules which will contain solutions are summarised as such:
 
 
-[Module 0: Day One Learning](./DayOneLearning)
+[Module 0: Day One Learning](./Module0)
 
 [Module 1 (optional): Intro to Software Development](./Module1)
 
