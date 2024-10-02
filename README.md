@@ -1,5 +1,5 @@
 # Learning Solutions
-This is the Discover and Practise solution portfolio for [insert your name here]'s progress through the Software Development program. It will contain 7 folders, each with relevant solutions to exercises and labs.
+This is the Discover and Practise solution portfolio for Charlie's progress through the Software Development program. It will contain 7 folders, each with relevant solutions to exercises and labs.
 
 ## Modules
 
